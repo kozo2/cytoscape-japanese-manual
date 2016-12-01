@@ -1,10 +1,8 @@
 <a id="launching_cytoscape"> </a>
-# Launching Cytoscape
+# Cytoscapeの起動
 
-Cytoscape is a Java application verified to run on the Linux, Windows,
-and Mac OS X platforms. Although not officially supported, other UNIX
-platforms such as Solaris or FreeBSD may run Cytoscape if Java version 8
-or later is available for the platform.
+Cytoscapeは、Linux、Windows、および Mac OS Xで動作するJavaアプリケーションです。
+公式にはサポートされていませんが他のUNIX(SolarisやFreeBSDのようなもの)でもJavaバージョン8以降が利用可能であれば、Cytoscapeは動作するかもしれません。
 
 <a id="system_requirements"> </a>
 ## System Requirements
